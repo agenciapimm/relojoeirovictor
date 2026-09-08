@@ -1087,7 +1087,7 @@
  'prioridade' :'baixa',
  'carregar' :true,
  'externo' :true,
- 'url' :'https://n8n.pimm.com.br/webhook-test/form-relojoeiro-profissional',
+ 'url' :'https://n8n.pimm.com.br/webhook/form-relojoeiro-profissional',
  'funcao_sucesso' :async function(retorno){
  let phone = '';
  let email = '';
